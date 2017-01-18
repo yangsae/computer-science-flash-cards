@@ -1,4 +1,4 @@
-#!/Users/yangsaerohoon/workspace2/computer-science-flash-cards/flask/bin/python
+#!/Users/saerohoonyang/workspace/computer-science-flash-cards/flask/bin/python
 
 import sys
 import getopt

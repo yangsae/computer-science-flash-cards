@@ -40,7 +40,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/Users/yangsaerohoon/workspace2/computer-science-flash-cards/flask"
+VIRTUAL_ENV="/Users/saerohoonyang/workspace/computer-science-flash-cards/flask"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
